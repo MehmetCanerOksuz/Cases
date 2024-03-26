@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Caner",
+    "surname": "Deneme",
+    "role": "YONETICI"
+  },
+  {
+    "name": "Mehmet",
+    "surname": "Deneme",
+    "role": "MEMUR",
+    "derece": "JUNIOR"
+  }
+]
